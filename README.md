@@ -1,6 +1,6 @@
 # Taller 7 ARSW
 
-## Despliqgue 
+## Despliegue 
 
 https://murmuring-headland-88583.herokuapp.com/
 
